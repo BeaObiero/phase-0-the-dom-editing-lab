@@ -113,7 +113,7 @@ Just to speed things up a bit, paste the following code into `index.html`:
 Refresh the browser page to see the changes.
 
 Open the Google Developer Tools by clicking on the "View" menu and selecting
-Developer -> Developer Tools. The Elements tab should be selected but, if it
+iDeveloper -> Developer Tools. The Elements tab should be selected but, if it
 isn't, click on it. Here we have the DOM representation of the HTML source
 loaded by the browser. You should see the `head` and `body` elements nested
 inside the `html` element. If the `body` element is collapsed, use the
